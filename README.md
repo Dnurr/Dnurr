@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dnurr
 - 👀 I’m interested in Game Development and 3D modeling
 - 🌱 I’m currently learning Computer Science (University of Pisa)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my first 3D game :)
 - 📫 How to reach me [TG: Stefano R. ~ 炎 {스테파노}](https://t.me/Dnuurr)
 
 <!---
