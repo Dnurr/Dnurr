@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dnurr
-- 👀 I’m interested in Game Development and Game Game Engine Development
+- 👀 I’m interested in Game and Game Engine Development
 - 🌱 I’m currently learning Computer Science (University of Parma)
 - 📫 How to reach me [TG: Stefano R.](https://t.me/Dnuurr)
 
