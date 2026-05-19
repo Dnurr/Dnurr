@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dnurr
-- 👀 I’m interested in Computer Graphics, Embedded Systems, PCB Design and Hardware Acceleration
+- 👀 I’m interested in Neurotech, AI and PCB Design
 - 🌱 I’m currently learning Computer Science (University of Parma)
 - 📫 How to reach me [TG: Stefano R.](https://t.me/Dnuurr)
 
